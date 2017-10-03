@@ -1,3 +1,6 @@
+# Practical-C-Programming
+Repo while reading Practical C Programming
+
 # Chap 3
 - Comment Code
 - Maybe overcomment
