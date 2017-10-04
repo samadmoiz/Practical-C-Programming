@@ -14,3 +14,7 @@ Repo while reading Practical C Programming
     + object-oriented programming
 - Clarity
     + your program should organized into section and paragraph
+
+
+# Chap 5
+- fgets add '\n' character at end
